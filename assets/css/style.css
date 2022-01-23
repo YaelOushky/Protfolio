@@ -538,7 +538,7 @@ section {
   text-align: center;
   background: #c79864;
   transition: 0.3s;
-  width: 50%;
+  width: 100%;
 }
 .portfolio .portfolio-wrap .portfolio-links a:hover {
   background: #9e7a50be;
